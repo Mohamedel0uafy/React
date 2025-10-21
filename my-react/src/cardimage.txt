@@ -1,0 +1,18 @@
+import Card from './card.jsx'
+
+function App() {
+  
+  return(
+    <>
+      <Card image="assets/v.jpg" name="atbir"/>
+      <Card image="assets/OIP (1).jpg" name="yatasilo bik"/>
+      <Card image="assets/pode-pode-pode.gif" name="hajar special"/>
+      <Card image="assets/images.jpg" name="gayoub"/>
+    </>
+
+  )
+     
+
+}
+
+export default App
